@@ -12,8 +12,11 @@ I'm a passionate software developer. Currently, I am in the learning phase.
 
 ### Skills
 
-- Programming Languages: [JavaScript]
-- Tools & Technologies: [Html and css]
+- Programming Languages: [JavaScript, CSS, and HTML]
+- Tools & Technologies: [GitHub and VS code]
+
+### Contact me
+Mail - mahimasoni@gmail.com
 
 
 
