@@ -12,7 +12,7 @@ I'm a passionate software developer. Currently, I am in the learning phase.
 
 ### Skills
 
-- Programming Languages: [JavaScript, CSS, and HTML]
+- Programming Languages: [JavaScript, CSS, HTML, Bootstrap, and JQuery]
 - Tools & Technologies: [GitHub and VS code]
 
 ### Contact me
