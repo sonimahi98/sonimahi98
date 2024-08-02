@@ -1,9 +1,9 @@
-### Hi there, I'm Mahima Soni! 👋
+### Hi there, I'm Mahima! 👋
 
-I'm a passionate software developer. Currently, I am in the learning phase.
+I'm a passionate front-end developer. Currently, I am in the learning phase.
 
-- 🔭 So far, I have learned HTML and CSS. 
-- 🌱 I’m currently learning JavaScript.
+- 🔭 I have proficient knowledge of Html, CSS, and JavaScript.
+- 🌱 I have a basic understanding of React.
 
 ### Projects
 
