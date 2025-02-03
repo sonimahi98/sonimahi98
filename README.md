@@ -6,7 +6,7 @@ I'm a passionate front-end developer. Currently, I am in the learning phase.
 - 🌱 I have a basic understanding of React.
 
 ### Projects
-
+- [My Portfolio](https://github.com/sonimahi98/My-portfolio)
 - [Amazon_UI_Clone](https://github.com/sonimahi98/Amazon_UI_Clone): This is the user interface clone of the home page of the Amazon shopping website.
 - [Google_Clone](https://github.com/sonimahi98/Google_Clone): This is UI clone of google.
 
